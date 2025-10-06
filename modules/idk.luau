@@ -1,1 +1,3 @@
-idk.bro
+local idk = require(..)
+
+print(idk)
