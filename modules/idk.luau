@@ -1,3 +1,3 @@
-local idk = require(..)
+local idk = require("..")
 
 print(idk)
